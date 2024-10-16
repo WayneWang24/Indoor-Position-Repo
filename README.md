@@ -1,18 +1,23 @@
-## Getting Started
+# Indoor-Position-Repo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repo contains multiple 2D/3D algorithms for indoor position, including the python version and corresponding JAVA version. It can quickly implemented into IOS/Android APP.
 
-## Folder Structure
+# Table of Contents
+- [1. List of supporting algorithms](#1-algorithms)
+- [2. Usage](#2-Usage)
+- [3. Demo](#3-Demo)
+- [4. Visualization](#5-visualization)
+- [Acknowledgment](#acknowledgment)
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# 1. List of supporting algorithms
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# 2. Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+# 3. Demo
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# 4. Visualization 
+
+# Acknowledgment
