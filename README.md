@@ -4,7 +4,7 @@ This repo contains the framework for indoor position, including UWB/BLE-AOA Indo
 
 This repo including 
 1. - [ ] the complete SWIFT codebase for UWB-based Indoor Location and Navigation.
-2. - [ ] the basci Android codedase for BLE AOA Indoor Location and Navigation.
+2. - [ ] the basic Android codedase for BLE AOA Indoor Location and Navigation.
 
 If you find it helpful, please give this repo a star! 
 
