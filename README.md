@@ -13,7 +13,7 @@ If you find it helpful, please give this repo a star!
 
 # Acknowledgment
 This repo is finished by Zhida Wang, Zixun Liao and me, CIMDA Limited. 
-We thank these codebases, [1]([https://github.com/zhm-real/PathPlanning])
+We thank these codebases, [1](https://github.com/zhm-real/PathPlanning), [2]() and [3]().
 
 # 1. List of supporting algorithms
 The following is the list of supporting algorithms in our repo.
