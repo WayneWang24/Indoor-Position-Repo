@@ -1,6 +1,11 @@
 # Indoor-Position-Repo
 
-This repo contains multiple 2D/3D algorithms for indoor position, including the python version and corresponding JAVA version. It can quickly implemented into IOS/Android APP.
+This repo contains the basic whole framework for indoor position, including UWB/BLE-AOA Indoor location, multiple 2D/3D Indoor Navigation algorithms. Besides, we will support the quick Map constrution in the future.
+This repo including 
+1. the complete SWIFT codebase for UWB-based Indoor Location and Navigation. [y]
+2. the basci Android codedase for BLE AOA Indoor Location and Navigation [x]
+
+We believe that this repo can be quickly implemented into IOS/Android APP.
 If you find it helpful, please give this repo a star! 
 
 # Table of Contents
@@ -12,7 +17,7 @@ If you find it helpful, please give this repo a star!
 
 
 # Acknowledgment
-This repo is finished by Zhida Wang, Zixun Liao and me, CIMDA Limited. 
+This repo is finished by [Zhida Wang](https://github.com/jeremywants), [Zixun Liao](https://github.com/Aslimbo) and me, CIMDA Limited. 
 We thank these codebases, [1](https://github.com/zhm-real/PathPlanning), [2]() and [3]().
 
 # 1. List of supporting algorithms
