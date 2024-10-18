@@ -20,7 +20,7 @@ If you find it helpful, please give this repo a star!
 
 
 # Acknowledgment
-This repo is finished by [Zhida Wang](https://github.com/jeremywants), [Zixun Liao](https://github.com/Aslimbo) and me, CIMDA Limited. 
+This repo is finished by [Zhida Wang](https://github.com/jeremywants), [Ziyun Liao](https://github.com/Aslimbo) and me, CIMDA Limited. 
 
 We thank these codebases, [1](https://github.com/zhm-real/PathPlanning), [2]() and [3]().
 
